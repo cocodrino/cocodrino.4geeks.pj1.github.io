@@ -52,6 +52,7 @@ body {
 
 .right-part {
   float: right;
+  padding-top: 16px;
   width: 50%;
 }
 
